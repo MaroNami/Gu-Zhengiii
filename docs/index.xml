@@ -1,15 +1,81 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Gu Zheng</title>
+    <title>Home on Úvahy a myšlenky</title>
     <link>http://maronami.github.io/hugo-start/</link>
-    <description>Recent content in Home on Gu Zheng</description>
+    <description>Recent content in Home on Úvahy a myšlenky</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
-    <lastBuildDate>Mon, 02 Apr 2018 01:33:22 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 02 May 2018 21:32:47 +0200</lastBuildDate>
     
 	<atom:link href="http://maronami.github.io/hugo-start/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Poem</title>
+      <link>http://maronami.github.io/hugo-start/post/poem/</link>
+      <pubDate>Wed, 02 May 2018 21:32:47 +0200</pubDate>
+      
+      <guid>http://maronami.github.io/hugo-start/post/poem/</guid>
+      <description> 你好 我叫马克。我是捷克人。我住在卡尔维诺。
+ </description>
+    </item>
+    
+    <item>
+      <title>Trapped</title>
+      <link>http://maronami.github.io/hugo-start/post/trapped/</link>
+      <pubDate>Wed, 02 May 2018 20:33:27 +0200</pubDate>
+      
+      <guid>http://maronami.github.io/hugo-start/post/trapped/</guid>
+      <description>So here we are again
+standing and staring&amp;hellip;
+Maybe it&amp;rsquo;s right now
+the time we&amp;rsquo;re gonna do&amp;hellip;
+what we are supposed to do&amp;hellip;
+How many time have we been there
+and we felt the same, me and you.
+Maybe we should cut the bend
+and try the different view
+Ahh ah ah ah a-a ah
+We&amp;rsquo;re trapped in chains
+fear from nothing
+Ahh ah ah ah a-a ah
+Empty silence,</description>
+    </item>
+    
+    <item>
+      <title>Bildern</title>
+      <link>http://maronami.github.io/hugo-start/post/bildern/</link>
+      <pubDate>Wed, 02 May 2018 20:33:10 +0200</pubDate>
+      
+      <guid>http://maronami.github.io/hugo-start/post/bildern/</guid>
+      <description>Entweder sind wir kalt
+oder einer ist zu weit.
+Es geben bildern an der Wand
+und Sie sagen zu mir, zu mir&amp;hellip;
+WAS HAST DU GEMACHT?!</description>
+    </item>
+    
+    <item>
+      <title>Perseidy</title>
+      <link>http://maronami.github.io/hugo-start/post/perseidy/</link>
+      <pubDate>Wed, 02 May 2018 20:32:39 +0200</pubDate>
+      
+      <guid>http://maronami.github.io/hugo-start/post/perseidy/</guid>
+      <description>Perseidy, když chceš víc&amp;hellip;
+&amp;hellip;víc než jen záblesk na obloze!
+Hvězdy, hvězdy</description>
+    </item>
+    
+    <item>
+      <title>Post</title>
+      <link>http://maronami.github.io/hugo-start/post/clanek/</link>
+      <pubDate>Wed, 02 May 2018 11:34:34 +0200</pubDate>
+      
+      <guid>http://maronami.github.io/hugo-start/post/clanek/</guid>
+      <description>Grunge Co je to vlastně grunge? Grunge je název hudebního stylu který se vyvinul zhruba v první polovině osmdesátých let a jeho rodištěm je město Seattle a jeho okolí. Grungeová scéna byla tudíž ve srovnání s jinými žánry velice lokální. Drtivá většina velkých Grungeových kapel pochází právě odsud.
+Hudebně se tento Seattlský sound, jak se stylu říká, řadí jako podoblast alternativního rocku a vychází mimo jiné z punk rocku, s nimž sdílí neuhlazenost, vztek, revoltu a divokost, na druhé straně z hard rocku a heavy metalu, který ho činí, narozdíl od punku, sofistikovanějším a hráčsky náročnějším.</description>
+    </item>
     
     <item>
       <title>Co je to vlastně Gu Zheng?</title>
@@ -18,28 +84,7 @@
       
       <guid>http://maronami.github.io/hugo-start/post/co-je-to-gu-zheng/</guid>
       <description> Krátké představovací video na začátek! Myslím že toto krátké seznamovací video je ideální k seznámení s tímto krásným hudebním nástrojem! Instruktoři podávají základní informace o historii, původu, složení nástroje a stylu hry.
- </description>
-    </item>
-    
-    <item>
-      <title>All albums of The Beatles</title>
-      <link>http://maronami.github.io/hugo-start/post/another-post/</link>
-      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://maronami.github.io/hugo-start/post/another-post/</guid>
-      <description>&lt;p&gt;This is just another post. And it illustrates a mighty functionality.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Welcome to Hugo!</title>
-      <link>http://maronami.github.io/hugo-start/post/welcome-to-hugo/</link>
-      <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://maronami.github.io/hugo-start/post/welcome-to-hugo/</guid>
-      <description>You’ll find this post in your content/post directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run command hugo server, which launches a web server and auto-regenerates your site when a file is updated.
-To add new posts, simply add a file in the content/post directory that follows the convention name-of-post.</description>
+  </description>
     </item>
     
     <item>
